@@ -4,4 +4,4 @@
 
 Bait pictures on the bait page
 -borders around them
--@media to make them stack for mobile
+-@media to make them not intefere with  tables

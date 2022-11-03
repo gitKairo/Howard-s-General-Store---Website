@@ -1,3 +1,4 @@
+/* Browser Reset */
 * {
     margin: 0px;
     padding: 0px;
@@ -114,6 +115,19 @@ li {
     border: #051615 solid 5px;
   }
 
+/* Index Page Responsive Design */
+@media screen and (max-width: 576px) {
+    .image1, .image2, .image3 {
+        clear: both;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
+
+    
+
 
 
 /* Services Main Page */
@@ -127,6 +141,9 @@ li {
 }
 
 /* Bait Prices */
+
+
+
 /* Live Bait */
 .lbhdr {
     font-size: 1.65em;
@@ -199,6 +216,22 @@ table, th, td {
     margin-right: 650px;
 
 }
+
+/* Services Responsive Design */
+@media screen and (max-width: 1345px) {
+    .redworm, .skipjack, .chubb {
+        display: none;
+    }
+    .spoolimg {
+        display: block;
+    }
+    .spooldiv {
+        bottom: 0px;
+        margin-bottom: 0px;
+    }
+
+}
+
 
 /* Respooling Service */
 .spool {
