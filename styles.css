@@ -193,28 +193,25 @@ table, th, td {
     float: right;
     width:  100px;
     height: auto;
-    object-fit: cover;
-    margin-top: 90px;
-    margin-right: 650px;
+    margin-right: 675px;
+    margin-top: -290px;
+    
 }
 
 .skipjack {
     float: right;
     width:  100px;
     height: auto;
-    object-fit: cover;
-    margin-top: 200px;
-    margin-right: -100px;
+    margin-right: 675px;
+    margin-top: -280px;
 }
 
 .chubb {
     float: right;
     width:  100px;
     height: auto;
-    object-fit: cover;
-    margin-top: -350px;
-    margin-right: 650px;
-
+    margin-right: 675px;
+    margin-top: -400px;
 }
 
 /* Services Responsive Design */
