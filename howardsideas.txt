@@ -1,0 +1,7 @@
+3 pictures horizontal under serivces on the hompage
+-borders around them
+-@media to make them stack for mobile
+
+Bait pictures on the bait page
+-borders around them
+-@media to make them stack for mobile
