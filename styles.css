@@ -220,7 +220,7 @@ table, th, td {
         display: none;
     }
     .spoolimg {
-        display: block;
+        display: none;
     }
     .spooldiv {
         bottom: 0px;
